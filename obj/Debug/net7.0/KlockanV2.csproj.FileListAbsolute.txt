@@ -1,0 +1,14 @@
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\bin\Debug\net7.0\KlockanV2.exe
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\bin\Debug\net7.0\KlockanV2.deps.json
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\bin\Debug\net7.0\KlockanV2.runtimeconfig.json
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\bin\Debug\net7.0\KlockanV2.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\bin\Debug\net7.0\KlockanV2.pdb
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.AssemblyInfoInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.AssemblyInfo.cs
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.csproj.CoreCompileInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\refint\KlockanV2.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.pdb
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\KlockanV2.genruntimeconfig.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanV2\obj\Debug\net7.0\ref\KlockanV2.dll
